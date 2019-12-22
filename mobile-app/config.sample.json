@@ -1,0 +1,8 @@
+{
+  "accessKeyId": "xxxxx",
+  "secretAccessKey": "xxxxxxxx",
+  "region": "xxxxx",
+  "deviceName" :"xxxxx",
+  "host" : "xxxxxxx",
+  "database":"xxxxxxx"
+}
